@@ -17,9 +17,9 @@
 
 I’m a developer based in San Jose focused on building full-stack applications and solving real-world problems through scalable engineering. My interests span Data Engineering, Test Engineering, and Development Engineering, with a current emphasis on exploring Test Engineering and software quality.
 
-- 💻 &nbsp;Currently building **full-stack applications and scalable software solutions**  
+- 💻 &nbsp;Currently building **full-stack applications and agentic solutions**  
 - 🛠️ &nbsp;Currently exploring **Test Engineering, QA practices, and software reliability**  
-- 📊 &nbsp;Interested in **Data Engineering, Development Engineering, and system design**  
+- 📊 &nbsp;Interested in **Data Engineering, Development Engineering, and Test Engineering**  
 - 🎓 &nbsp;Currently pursuing **a Master’s in Computer Science at Santa Clara University**
 
 ### Tech Stack
