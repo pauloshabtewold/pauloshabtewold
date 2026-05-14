@@ -1,115 +1,137 @@
 <div align="center">
-
-<!-- Typing SVG Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Instrument+Serif&size=36&duration=3000&pause=1000&color=111111&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Your+Name+%F0%9F%91%8B;Full-Stack+Developer;Building+thoughtful+products.)](https://git.io/typing-svg)
-
-<p align="center">
-  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" /></a>&nbsp;
-  <a href="mailto:you@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-</p>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:0a192f,100:112240&height=220&section=header&text=Paulos%20Habtewold&fontSize=58&fontColor=64ffda&fontAlignY=38&desc=AI%20%7C%20Full-Stack%20%7C%20Data%20Science%20%E2%80%94%20San%20Jose%2C%20CA&descSize=17&descColor=8892b0&animation=fadeIn" width="100%" />
+</div>
+<div align="center">
+Show Image
+</div>
+<div align="center">
+Show Image 
+Show Image 
+Show Image 
+Show Image
 </div>
 
----
+> whoami
+tsconst paulos = {
+  name:       "Paulos Habtewold",
+  location:   "San Jose, CA 📍",
+  focus:      ["Generative AI", "Full-Stack", "Data Science", "Mobile"],
+  currentlyBuilding: "LLM-powered tools & cross-platform mobile apps",
+  learning:   "Agentic AI systems · Advanced ML pipelines",
+  askMeAbout: ["Python", "React Native", "LLMs", "Streamlit", "Stock Prediction"],
+  funFact:    "I trained a model to predict stocks — it's still learning 📉→📈",
+};
 
-### About Me
+> tech-stack --all
+⬡ AI & Machine Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+  <img src="https://img.shields.io/badge/Streamlit-0a192f?style=flat-square&logo=streamlit&logoColor=64ffda" />
+  <img src="https://img.shields.io/badge/Groq_API-0a192f?style=flat-square&logo=openai&logoColor=64ffda" />
+  <img src="https://img.shields.io/badge/Jupyter-0a192f?style=flat-square&logo=jupyter&logoColor=64ffda" />
+  <img src="https://img.shields.io/badge/scikit--learn-0a192f?style=flat-square&logo=scikitlearn&logoColor=64ffda" />
+</p>
+⬡ Frontend & Mobile
+<p>
+  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css" />
+  <img src="https://img.shields.io/badge/React_Native-0a192f?style=flat-square&logo=react&logoColor=64ffda" />
+  <img src="https://img.shields.io/badge/Expo-0a192f?style=flat-square&logo=expo&logoColor=64ffda" />
+</p>
+⬡ Backend & Data
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,postgres,redis" />
+  <img src="https://img.shields.io/badge/pandas-0a192f?style=flat-square&logo=pandas&logoColor=64ffda" />
+  <img src="https://img.shields.io/badge/NumPy-0a192f?style=flat-square&logo=numpy&logoColor=64ffda" />
+</p>
+⬡ Systems & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,docker,git,linux,vscode" />
+</p>
 
-I'm a full-stack developer passionate about building clean, performant, and user-focused products. I care deeply about developer experience, thoughtful system design, and writing code that's easy to maintain.
-
-- 🔭 Currently working on **[Your Current Project]**
-- 🌱 Exploring **[Something you're learning, e.g. Rust / System Design / AI]**
-- 💬 Ask me about **React, Node.js, TypeScript, or anything web**
-- 📍 Based in **Your City, Country**
-
----
-
-### Tech Stack
-
-#### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-#### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-#### Tools & Platforms
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
----
-
-### Featured Projects
-
+> projects --featured
+<div align="center">
 <table>
   <tr>
-    <td width="50%">
-      <h3>🚀 Project One</h3>
-      <p>A short, punchy description of what this project does and why it matters. Keep it to 1–2 sentences.</p>
+    <td width="50%" valign="top">
+      <h3><code>🤖 GenerativeAIQuiz</code></h3>
+      <p>A Streamlit app powered by the Groq LLM API that generates dynamic quizzes on any topic using generative AI. Just describe a subject — it handles the rest.</p>
       <p>
-        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-0a192f?style=flat-square&logo=python&logoColor=64ffda" />
+        <img src="https://img.shields.io/badge/Streamlit-0a192f?style=flat-square&logo=streamlit&logoColor=64ffda" />
+        <img src="https://img.shields.io/badge/Groq_API-0a192f?style=flat-square&logo=openai&logoColor=64ffda" />
       </p>
-      <a href="https://github.com/yourusername/project-one">View Repo →</a>
+      <a href="https://github.com/pauloshabtewold/GenerativeAIQuiz">
+        <img src="https://img.shields.io/badge/View%20Repo-0a192f?style=for-the-badge&logo=github&logoColor=64ffda" />
+      </a>
     </td>
-    <td width="50%">
-      <h3>⚡ Project Two</h3>
-      <p>A short, punchy description of what this project does and why it matters. Keep it to 1–2 sentences.</p>
+    <td width="50%" valign="top">
+      <h3><code>📱 OmwanaThrive</code></h3>
+      <p>A cross-platform mobile app built with React Native & Expo, featuring SMS/email communication utilities and a multi-screen architecture for real-world impact.</p>
       <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+        <img src="https://img.shields.io/badge/React_Native-0a192f?style=flat-square&logo=react&logoColor=64ffda" />
+        <img src="https://img.shields.io/badge/Expo-0a192f?style=flat-square&logo=expo&logoColor=64ffda" />
+        <img src="https://img.shields.io/badge/JavaScript-0a192f?style=flat-square&logo=javascript&logoColor=64ffda" />
       </p>
-      <a href="https://github.com/yourusername/project-two">View Repo →</a>
+      <a href="https://github.com/pauloshabtewold/OmwanaThrive">
+        <img src="https://img.shields.io/badge/View%20Repo-0a192f?style=for-the-badge&logo=github&logoColor=64ffda" />
+      </a>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3>🎯 Project Three</h3>
-      <p>A short, punchy description of what this project does and why it matters. Keep it to 1–2 sentences.</p>
+    <td width="50%" valign="top">
+      <h3><code>📈 PredictingStocks</code></h3>
+      <p>A machine learning project using Jupyter notebooks to model and predict stock price movements — combining financial data engineering with scikit-learn pipelines.</p>
       <p>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express-000?style=flat-square&logo=express" />
+        <img src="https://img.shields.io/badge/Python-0a192f?style=flat-square&logo=python&logoColor=64ffda" />
+        <img src="https://img.shields.io/badge/Jupyter-0a192f?style=flat-square&logo=jupyter&logoColor=64ffda" />
+        <img src="https://img.shields.io/badge/scikit--learn-0a192f?style=flat-square&logo=scikitlearn&logoColor=64ffda" />
       </p>
-      <a href="https://github.com/yourusername/project-three">View Repo →</a>
+      <a href="https://github.com/pauloshabtewold/PredictingStocks">
+        <img src="https://img.shields.io/badge/View%20Repo-0a192f?style=for-the-badge&logo=github&logoColor=64ffda" />
+      </a>
     </td>
-    <td width="50%">
-      <h3>🌐 Project Four</h3>
-      <p>A short, punchy description of what this project does and why it matters. Keep it to 1–2 sentences.</p>
+    <td width="50%" valign="top">
+      <h3><code>🌐 Weatherapp</code></h3>
+      <p>A clean, responsive weather web app built in vanilla HTML/CSS/JS — fetching live data from a weather API and presenting it in a minimal, readable UI.</p>
       <p>
-        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-        <img src="https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel" />
-        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" />
+        <img src="https://img.shields.io/badge/HTML5-0a192f?style=flat-square&logo=html5&logoColor=64ffda" />
+        <img src="https://img.shields.io/badge/CSS3-0a192f?style=flat-square&logo=css3&logoColor=64ffda" />
+        <img src="https://img.shields.io/badge/JavaScript-0a192f?style=flat-square&logo=javascript&logoColor=64ffda" />
       </p>
-      <a href="https://github.com/yourusername/project-four">View Repo →</a>
+      <a href="https://github.com/pauloshabtewold/Weatherapp">
+        <img src="https://img.shields.io/badge/View%20Repo-0a192f?style=for-the-badge&logo=github&logoColor=64ffda" />
+      </a>
     </td>
   </tr>
 </table>
-
----
-
-### GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default&hide_border=true&langs_count=6" />
-
 </div>
 
----
+> github --stats
+<div align="center">
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=pauloshabtewold&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=64ffda&icon_color=64ffda&text_color=8892b0&bg_color=0a192f" />
+&nbsp;
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloshabtewold&layout=compact&theme=tokyonight&hide_border=true&langs_count=7&title_color=64ffda&text_color=8892b0&bg_color=0a192f" />
+</div>
+<div align="center">
+<img width="68%" src="https://streak-stats.demolab.com?user=pauloshabtewold&theme=tokyonight&hide_border=true&ring=64ffda&fire=64ffda&currStreakLabel=64ffda&sideLabels=8892b0&dates=8892b0&background=0a192f" />
+</div>
+<div align="center">
+Show Image
+</div>
+
+> git log --graph
+<div align="center">
+Show Image
+</div>
+
+> snake --watch
+<div align="center">
+Show Image
+</div>
+
+⚙️ Enable the snake: Add .github/workflows/snake.yml using Platane/snk — takes 2 minutes to set up.
+
 
 <div align="center">
-  <sub>Thanks for stopping by — feel free to reach out if you'd like to collaborate! 🤝</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:112240,50:0a192f,100:0d0d0d&height=120&section=footer&text=Let%27s+build+something+meaningful&fontSize=18&fontColor=64ffda&fontAlignY=65&animation=fadeIn" width="100%" />
 </div>
