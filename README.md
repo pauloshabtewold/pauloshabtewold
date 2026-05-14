@@ -15,14 +15,12 @@
 
 <br/>
 
-I'm a developer based in San Jose with a focus on building AI-powered applications, cross-platform mobile experiences, and data-driven tools. I care about writing clean code that solves real problems.
+I’m a developer based in San Jose focused on building full-stack applications and solving real-world problems through scalable engineering. My interests span Data Engineering, Test Engineering, and Development Engineering, with a current emphasis on exploring Test Engineering and software quality.
 
-- 🤖 &nbsp;Currently exploring **agentic AI systems and LLM pipelines**
-- 📱 &nbsp;Building with **React Native, Python, and Streamlit**
-- 📊 &nbsp;Interested in **ML for finance and data engineering**
-- 🎓 &nbsp;Studying at **Santa Clara University**
-
----
+- 💻 &nbsp;Currently building **full-stack applications and scalable software solutions**  
+- 🛠️ &nbsp;Currently exploring **Test Engineering, QA practices, and software reliability**  
+- 📊 &nbsp;Interested in **Data Engineering, Development Engineering, and system design**  
+- 🎓 &nbsp;Currently pursuing **a Master’s in Computer Science at Santa Clara University**
 
 ### Tech Stack
 
